@@ -1,7 +1,8 @@
 # neeharika-art-portfolio
 # 🎨 Neeharika's Art Gallery – 12th Grade Digital Portfolio
 
-![Neeharika Art Banner](https://via.placeholder.com/1000x300?text=Neeharika+Art+Gallery+Portfolio)  
+![Neeharika’s Art Gallery Banner](https://i.postimg.cc/s2BVm5Xb/banner-image.png)
+ 
 *— A Creative Journey in Strokes and Shades —*
 
 Welcome to the official GitHub repository for **Neeharika's Art Gallery**, a minimalist and elegant art portfolio designed to showcase the creative works of Neeharika, a 12th-grade student passionate about drawing and visual expression.
@@ -30,7 +31,7 @@ Designed entirely using **Canva**, the site includes clean layout, soft color to
 
 ## 🌐 Live Website
 
-🔗 **View the Portfolio**: [https://your-canva-link.com](https://your-canva-link.com)  
+🔗 **View the Portfolio**: [https://your-canva-link.com](https://lithikaportfolio.my.canva.site/neeharika-website)  
 *(Replace with your published Canva website link)*
 
 ---
@@ -39,8 +40,8 @@ Designed entirely using **Canva**, the site includes clean layout, soft color to
 
 Feel free to reach out or connect for feedback or encouragement:
 
-- 📧 **Email**: `neeharika.art12@gmail.com`
-- 📸 **Instagram**: [@neeharika.art_](https://instagram.com/neeharika.art_)
+- 📧 **Email**: `neeha.artworks@gmail.com`
+  
 
 ---
 
