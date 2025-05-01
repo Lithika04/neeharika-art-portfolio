@@ -32,7 +32,7 @@ Designed entirely using **Canva**, the site includes clean layout, soft color to
 ## 🌐 Live Website
 
 🔗 **View the Portfolio**: [https://your-canva-link.com](https://lithikaportfolio.my.canva.site/neeharika-website)  
-*(Replace with your published Canva website link)*
+
 
 ---
 
